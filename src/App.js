@@ -37,7 +37,9 @@ function App() {
       <main>
         <div className="title">
           <h2>no tours left</h2>
-          <button onClick={fetchTours}>refresh</button>
+          <button onClick={fetchTours} className="btn">
+            refresh
+          </button>
         </div>
       </main>
     );
