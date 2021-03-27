@@ -18,15 +18,14 @@ npm install / yarn install
 
 ## Usage
 
-```sh
+````sh
 npm start / yarn start
-```
 
 ## Run tests
 
 ```sh
 npm run test
-```
+````
 
 ## Author
 
