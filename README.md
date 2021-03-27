@@ -7,8 +7,8 @@
 ## About the project
 
 > This is really simple project called birthday project build with React js
-> This project basically project to remind you of your friend's birthday date by listing their name and images once you dont have it and you click "clear all " all the data will be gone"
-> <img src="/src/images/birthday-reminder.PNG" alt="images"/>
+> This project basically just similar to catalogue user can see and choose based on their interest, here user can read detail every single tour package and decide whether interested or not once user click "no interested" then the list of catalogue will be reduced
+> <img src="/src/images/tour2.PNG" alt="images"/>
 
 ## Install
 
