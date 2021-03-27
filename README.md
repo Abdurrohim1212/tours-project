@@ -6,8 +6,8 @@
 
 ## About the project
 
-> This is really simple project called birthday project build with React js
-> This project basically just similar to catalogue user can see and choose based on their interest, here user can read detail every single tour package and decide whether interested or not once user click "no interested" then the list of catalogue will be reduced
+> This is really simple project called Tour project build with React js
+> This project basically just similar to catalogue where user can see and choose based on their interest, here user can read detail every single tour package and decide whether interested or not once user click "no interested" then the list of catalogue will be reduced
 > <img src="/src/images/tour2.PNG" alt="images"/>
 
 ## Install
